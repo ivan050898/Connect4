@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var SETMATRIZ = 'SetMatrizRedux';","map":{"version":3,"sources":["G:/PR3/Frontend/frontend/redux/Types.js"],"names":["SETMATRIZ"],"mappings":"AAAA,OAAO,IAAMA,SAAS,GAAG,gBAAlB","sourcesContent":["export const SETMATRIZ = 'SetMatrizRedux';"]},"metadata":{},"sourceType":"module"}

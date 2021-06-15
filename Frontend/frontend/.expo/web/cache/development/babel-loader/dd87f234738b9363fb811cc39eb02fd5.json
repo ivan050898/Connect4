@@ -1,0 +1,1 @@
+{"ast":null,"code":"var api = 'http://10.0.2.2:5000';\nexport default api;","map":{"version":3,"sources":["G:/PR3/Frontend/frontend/componentes/api.js"],"names":["api"],"mappings":"AAAA,IAAMA,GAAG,GAAG,sBAAZ;AAEA,eAAeA,GAAf","sourcesContent":["const api = 'http://10.0.2.2:5000';\r\n\r\nexport default api;"]},"metadata":{},"sourceType":"module"}
